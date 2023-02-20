@@ -1,0 +1,8 @@
+D:\Приложения\VisualStudio\Practice 2\bin\Debug\Practice 2.exe.config
+D:\Приложения\VisualStudio\Practice 2\bin\Debug\Practice 2.exe
+D:\Приложения\VisualStudio\Practice 2\bin\Debug\Practice 2.pdb
+D:\Приложения\VisualStudio\Practice 2\obj\Debug\Practice 2.csproj.AssemblyReference.cache
+D:\Приложения\VisualStudio\Practice 2\obj\Debug\Practice 2.csproj.SuggestedBindingRedirects.cache
+D:\Приложения\VisualStudio\Practice 2\obj\Debug\Practice 2.csproj.CoreCompileInputs.cache
+D:\Приложения\VisualStudio\Practice 2\obj\Debug\Practice 2.exe
+D:\Приложения\VisualStudio\Practice 2\obj\Debug\Practice 2.pdb
